@@ -22,6 +22,6 @@ I'm a Year 3 Student at Temasek Polytechnic from the Diploma in Information Tech
 ![Room](https://img.shields.io/badge/Room-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 
 ### Find Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-amihan-molase-respeto-34604827b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-amihan-molase-respeto-34604827b/)
 [![Portfolio](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://YOURWEBSITE.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiaamihanmrespeto@gmail.com)
