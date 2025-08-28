@@ -1,9 +1,9 @@
-### Hello! I'm Sofia.
-I'm a Year 3 Student at Temasek Polytechnic from the Diploma in Information Technology.
+<!-- ### Hello! I'm Sofia.
+I'm a Year 3 Student at Temasek Polytechnic from the Diploma in Information Technology.-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaamihan&layout=donut&hide=jupyter%20notebook,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
 
-### Technologies
+<!-- ### Technologies
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,4 +24,4 @@ I'm a Year 3 Student at Temasek Polytechnic from the Diploma in Information Tech
 ### Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-amihan-molase-respeto-34604827b/)
 [![Portfolio](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://YOURWEBSITE.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiaamihanmrespeto@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofiaamihanmrespeto@gmail.com) -->
