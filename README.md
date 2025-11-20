@@ -1,7 +1,7 @@
 <!-- ### Hello! I'm Sofia.
 I'm a Year 3 Student at Temasek Polytechnic from the Diploma in Information Technology.-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaamihan&layout=donut&hide=jupyter%20notebook,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaamihan&hide_progress=true&hide=jupyter%20notebook,dockerfile)
 
 <!-- ### Technologies
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
