@@ -1,7 +1,9 @@
 <!-- ### Hello! I'm Sofia.
 I'm a Year 3 Student at Temasek Polytechnic from the Diploma in Information Technology.-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaamihan&hide_progress=true&hide=jupyter%20notebook,dockerfile,c%23)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiaamihan&hide_progress=true&hide=jupyter%20notebook,dockerfile,c%23) -->
+
+<p align="center"> <img src="https://raw.githubusercontent.com/sofiaamihan/sofiaamihan/refs/heads/main/assets/python.png" alt="Home Screen" width="10%" /> <img src="https://raw.githubusercontent.com/sofiaamihan/sofiaamihan/refs/heads/main/assets/javascript.png" alt="Home Screen" width="10%" /> <img src="https://raw.githubusercontent.com/sofiaamihan/sofiaamihan/refs/heads/main/assets/raspberrypi.png" alt="Home Screen" width="10%" /> <img src="https://raw.githubusercontent.com/sofiaamihan/sofiaamihan/refs/heads/main/assets/typescript.png" alt="Home Screen" width="10%" /> <img src="https://raw.githubusercontent.com/sofiaamihan/sofiaamihan/refs/heads/main/assets/kotlin.png" alt="Home Screen" width="10%" /> <img src="https://raw.githubusercontent.com/sofiaamihan/sofiaamihan/refs/heads/main/assets/java.png" alt="Home Screen" width="10%" /> 
 
 <!-- ### Technologies
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
